@@ -1,0 +1,15 @@
+{
+  "job_id": "30e4078770da",
+  "url": "https://www.youtube.com/watch?v=LsSGn_wDZ2Q",
+  "video_id": "LsSGn_wDZ2Q",
+  "title": "Xbox Game Dev Update | Spring '26",
+  "uploader": "Microsoft Game Dev",
+  "duration_sec": 5115,
+  "duration": "1:25:15",
+  "size_bytes": 207607115,
+  "branch": "job/30e4078770da",
+  "chunked": true,
+  "chunk_count": 5,
+  "fetched_at": "2026-05-08T21:48:43Z",
+  "status": "ok"
+}
