@@ -1,0 +1,15 @@
+{
+  "job_id": "c6e202f75803",
+  "url": "https://www.youtube.com/watch?v=i9TvUGeTltE",
+  "video_id": "i9TvUGeTltE",
+  "title": "My Take on The New Apple",
+  "uploader": "Marques Brownlee",
+  "duration_sec": 669,
+  "duration": "11:09",
+  "size_bytes": 46171428,
+  "branch": "job/c6e202f75803",
+  "chunked": false,
+  "chunk_count": 1,
+  "fetched_at": "2026-05-11T11:18:48Z",
+  "status": "ok"
+}
