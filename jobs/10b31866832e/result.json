@@ -1,0 +1,20 @@
+{
+  "job_id": "10b31866832e",
+  "url": "https://www.youtube.com/watch?v=-DUWTteit-0",
+  "video_id": "-DUWTteit-0",
+  "title": "I'm shocked how well this worked - Steam Deck Cooler Upgrade",
+  "uploader": "Linus Tech Tips",
+  "duration_sec": 1407,
+  "duration": "23:27",
+  "size_bytes": 115497391,
+  "part_count": 3,
+  "parts_uploaded": 0,
+  "branches": [
+    "job/10b31866832e/part-000",
+    "job/10b31866832e/part-001",
+    "job/10b31866832e/part-002"
+  ],
+  "mime_type": "video/mp4",
+  "status": "uploading",
+  "fetched_at": "2026-05-12T06:52:06Z"
+}
