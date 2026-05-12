@@ -1,0 +1,21 @@
+{
+  "job_id": "6fa6c9fe7b70",
+  "url": "https://www.youtube.com/watch?v=uCVXqoVi6RE",
+  "video_id": "uCVXqoVi6RE",
+  "title": "Almost Perfect - Steam Deck OLED Review",
+  "uploader": "Linus Tech Tips",
+  "duration_sec": 999,
+  "duration": "16:39",
+  "size_bytes": 160917664,
+  "part_count": 4,
+  "parts_uploaded": 0,
+  "branches": [
+    "job/6fa6c9fe7b70/part-000",
+    "job/6fa6c9fe7b70/part-001",
+    "job/6fa6c9fe7b70/part-002",
+    "job/6fa6c9fe7b70/part-003"
+  ],
+  "mime_type": "video/mp4",
+  "status": "uploading",
+  "fetched_at": "2026-05-12T06:50:07Z"
+}
